@@ -15,7 +15,7 @@ Perfect for learning game loops, collision detection, and GUI basics.
 ---
 
 ## 📸 Project Preview
-![Flappy Bird Preview](assets/screenshot.png)
+![Flappy Bird Preview](assets/Screenshot.png)
 
 ---
 
